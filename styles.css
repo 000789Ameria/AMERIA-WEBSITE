@@ -1,0 +1,106 @@
+div{
+    /*border:15px solid black;*/
+    border-radius: 20%;
+    height:200px;
+    width: 1000px;
+    margin: 0 auto;
+    font-family:sans-serif;
+    font-size: 10rem;
+    color: tomato;
+    border-color:aquamarine
+    
+}
+
+
+img{
+    border-radius: 10%;
+    border: 3px solid black;
+}
+
+* {box-sizing: border-box}
+
+/* Full-width input fields */
+input[type=text] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #ff1f1f;
+}
+
+button{
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width:20%;
+}
+table{
+    border: 1px solid;
+    width: 50%;
+}
+h1{
+    font-size: 4rem;
+    margin:0 auto;
+    color: gold;
+}
+body{
+    background-image: url(yes.jpg)
+
+}
+p{
+    color: honeydew;
+}
+
+h3{
+    color:aqua;
+}
+li{
+    color:darkgoldenrod;
+}
+h5{
+    color:burlywood;
+}
+h6{
+    color:goldenrod;
+}
+#click{
+    color:greenyellow
+}
+
+.WhatsApp_float {
+    position: fixed;
+    width: 200px;
+    height: 200px;
+    bottom: 40px;
+    right: 40px;
+    background-color: green;
+    color: white;
+    border-radius: 20%;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px blue;
+    z-index: 100;
+    background-image: url(asap.png);
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+}
+
+.WhatsApp-icon{
+    margin-top: 16px;   
+}
+@media screen and (max-width: 767px){
+    .whatsapp-icon{
+        margin-top: 10px;
+    }
+    .WhatsApp_float {
+        width: 40px;
+        height: 40px;
+        bottom: 20px;
+        right: 20px;
+        font-size: 22px;
+    }
+}

@@ -75,13 +75,13 @@ h6{
     position: fixed;
     width: 700px;
     height: 500px;
-    bottom: 40px;
-    right: 40px;
+    bottom: 400px;
+    right: 400px;
     background-color: green;
     color: white;
     border-radius: 20%;
     text-align: center;
-    font-size: 300px;
+    font-size: 30px;
     box-shadow: 2px 2px 3px blue;
     z-index: 100;
     background-image: url(asap.png);

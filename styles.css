@@ -78,8 +78,8 @@ h6{
     position: fixed;
     width: 100px;
     height: 100px;
-    bottom: 400px;
-    right: 40px;
+    bottom: 200px;
+    right: 5px;
     background-color: green;
     color: white;
     border-radius: 35%;

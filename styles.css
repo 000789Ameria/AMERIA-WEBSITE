@@ -1,8 +1,8 @@
 div{
     /*border:15px solid black;*/
     border-radius: 20%;
-    height:60em;
-    width: 70em;
+    height:250px;
+    width: 450px;
     margin: 0 auto;
     font-family:sans-serif;
     font-size: 10px;
@@ -86,7 +86,7 @@ h6{
     z-index: 100;
     background-image: url(asap.png);
     background-repeat: no-repeat;
-    background-size: 100px 100px;
+    background-size: 100em 100em;
 }
 
 .WhatsApp-icon{

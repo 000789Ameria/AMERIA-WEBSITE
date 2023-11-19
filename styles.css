@@ -83,27 +83,4 @@ h6{
     background-color: green;
     color: white;
     border-radius: 20%;
-    text-align: center;
-    font-size: 30px;
-    box-shadow: 2px 2px 3px blue;
-    z-index: 100;
-    background-image: url(asap.png);
-    background-repeat: no-repeat;
-    background-size: 100em 100em;
-}
-
-.WhatsApp-icon{
-    margin-top: 40px;   
-}
-@media screen and (max-width: 767px){
-    .whatsapp-icon{
-        margin-top: 500px;
-    }
-    .WhatsApp_float {
-        width: 20px;
-        height: 20px;
-        bottom: 20px;
-        right: 20px;
-        font-size: 15px;;
-    }
 }

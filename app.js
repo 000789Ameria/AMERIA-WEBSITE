@@ -7,6 +7,7 @@ square.addEventListener('click', function(){
     alert("Thanks for staying with us.")
   }
 });
+
 function changeLang() {
     var language = getCookie("lang");
     if (test == "en") {

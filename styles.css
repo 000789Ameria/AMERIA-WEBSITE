@@ -76,9 +76,9 @@ h6{
 
  i{
     position: fixed;
-    width: 10px;
-    height: 10px;
-    bottom: 40px;
+    width: 100px;
+    height: 100px;
+    bottom: 400px;
     right: 400px;
     background-color: green;
     color: white;

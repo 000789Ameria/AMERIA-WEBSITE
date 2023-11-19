@@ -73,8 +73,8 @@ h6{
 
 .WhatsApp_float {
     position: fixed;
-    width: 60px;
-    height: 60px;
+    width: 200px;
+    height: 200px;
     bottom: 40px;
     right: 40px;
     background-color: green;

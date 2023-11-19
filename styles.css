@@ -18,6 +18,8 @@ div{
 img{
     border-radius: 10%;
     border: 3px solid black;
+    width:10px;
+    height:20px;
 }
 
 * {box-sizing: border-box}

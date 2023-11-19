@@ -81,12 +81,12 @@ h6{
     color: white;
     border-radius: 20%;
     text-align: center;
-    font-size: 30px;
+    font-size: 300px;
     box-shadow: 2px 2px 3px blue;
     z-index: 100;
     background-image: url(asap.png);
     background-repeat: no-repeat;
-    background-size: 1000em 1000em;
+    background-size: 100em 100em;
 }
 
 .WhatsApp-icon{

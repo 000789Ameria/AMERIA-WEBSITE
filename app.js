@@ -1,4 +1,4 @@
-document.getElementById('btn') == function changeLang() {
+document.getElementById('btn') = function changeLang() {
     var language = getCookie("lang");
     if (test == "en") {
         setCookie("lang", "es", 365);

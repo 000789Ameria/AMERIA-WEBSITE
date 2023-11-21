@@ -10,7 +10,7 @@ div{
     border-color:aquamarine
 
 img{
-    border-radius: 10%;
+    border-radius: 50%;
     border: 3px solid black;
 }
 
@@ -46,7 +46,7 @@ h1{
 }
     
 body{
-    background-image: url(yes.jpg)
+    background-image:url(yes.jpg);
 
 }
 p{

@@ -13,7 +13,6 @@ div{
 .asap{
     border-radius: 20%
         top:40px;
-    right:40px;}
 
 img{
     border-radius: 10%;
@@ -76,8 +75,8 @@ h6{
 }
 
  i{
-    width: 10px;
-    height: 10px;
+    
+
     bottom: 200px;
     right: 5px;
     background-color: green;
